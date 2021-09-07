@@ -4,8 +4,8 @@ import smtplib
 
 import pandas
 
-MY_EMAIL = "sduttatestpsl@gmail.com"
-MY_PASSWORD = "@Empirix22"
+MY_EMAIL = "youremail@gmail.com"
+MY_PASSWORD = "yourpassword"
 
 '''This is an automatic birthday wish generated mail program'''
 
